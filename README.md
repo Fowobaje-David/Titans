@@ -55,12 +55,12 @@ cd titanbridge
   },
   "BankLink": {
     "ApiBaseUrl": "https://staging-api.banklink.coralpaytechnologies.com",
-    "ApiKey": "YOUR_API_KEY_HERE",
-    "ApiSecret": "YOUR_API_SECRET_HERE"
+    "ApiKey": "API_KEY_HERE",
+    "ApiSecret": "API_SECRET_HERE"
   },
   "OctoPlus": {
     "ApiBaseUrl": "https://staging-api.octoplus.coralpaytechnologies.com",
-    "ApiKey": "YOUR_API_KEY_HERE"
+    "ApiKey": "API_KEY_HERE"
   }
 }
 ```
